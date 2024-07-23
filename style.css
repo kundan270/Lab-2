@@ -1,0 +1,17 @@
+.container{
+    background-color: burlywood;
+    width:600px;
+    height:600px;
+    border:5px solid cornflowerblue;
+}
+
+.container h1 {
+    text-align: center;
+color: red;
+
+}
+
+p{
+    font-size: 25px;
+    text-align: center;
+}
